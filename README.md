@@ -1,5 +1,5 @@
 # Portfolio Website
 
-Referrence:
+Reference:
 [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
